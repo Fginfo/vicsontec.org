@@ -1,0 +1,37 @@
+*{ background-color: whitesmoke;}
+input{background-color: beige;
+
+    display: list-item;
+}
+select{
+    color: blueviolet;
+    background-color: whitesmoke;
+}
+div{
+    color: green;
+    font-size: larger;
+    font-weight: bolder;
+}
+p{
+    font-weight: bolder;
+    font-size: small;
+    color: blue;
+}
+.response{
+    font-style: italic;
+    color: darkmagenta;
+    text-align: center;
+}
+button{
+    background-color: whitesmoke;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    text-decoration: wavy;
+    
+}
+img{ border-radius: 20px;
+    display: flow-root;
+
+
+}
